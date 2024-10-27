@@ -1,0 +1,10 @@
+argparse
+asyncio
+rich>=10.0.0
+ollama
+spacy>=3.0.0
+textblob>=0.15.3
+nltk>=3.6.0
+uuid
+pathlib
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
