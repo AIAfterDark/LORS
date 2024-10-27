@@ -68,7 +68,7 @@ The system implements an adaptive scaling mechanism based on prompt complexity:
 
 #### 3. Agent Types and Characteristics
 
-**Fast Reasoning Agents (llama3.2Uncen)**
+**Fast Reasoning Agents (llama3.2)**
 - Optimized for rapid initial analysis
 - Lower token limit for quicker processing
 - Focus on key concept identification
@@ -81,7 +81,7 @@ The system implements an adaptive scaling mechanism based on prompt complexity:
   }
   ```
 
-**Deep Reasoning Agents (llama3.1Uncen)**
+**Deep Reasoning Agents (llama3.1)**
 - Designed for thorough analysis
 - Higher token limit for comprehensive responses
 - Focus on relationships and implications
